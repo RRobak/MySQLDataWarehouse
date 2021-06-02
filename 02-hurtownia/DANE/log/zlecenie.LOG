@@ -1,0 +1,56 @@
+
+SQL*Loader: Release 18.0.0.0.0 - Production on Tue Jun 9 22:19:22 2020
+Version 18.4.0.0.0
+
+Copyright (c) 1982, 2019, Oracle and/or its affiliates.  All rights reserved.
+
+
+Control File:   zlecenie.TXT
+Data File:      ..\csv\zlecenie.csv
+  Bad File:     zlecenie.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table ZLECENIE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ID                                  FIRST     *   ;       CHARACTER            
+CENA                                 NEXT     *   ;       CHARACTER            
+STATUS                               NEXT     *   ;       CHARACTER            
+STAN_OPLATY                          NEXT     *   ;       CHARACTER            
+ID_KIEROWCA                          NEXT     *   ;       CHARACTER            
+ID_SPEDYTOR                          NEXT     *   ;       CHARACTER            
+ID_ODDZIAL                           NEXT     *   ;       CHARACTER            
+ID_OKRES                             NEXT     *   ;       CHARACTER            
+
+
+Table ZLECENIE:
+  100 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 516000 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:           100
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Tue Jun 09 22:19:22 2020
+Run ended on Tue Jun 09 22:19:22 2020
+
+Elapsed time was:     00:00:00.14
+CPU time was:         00:00:00.09

@@ -1,0 +1,101 @@
+ID;CENA;STATUS;STAN_OPLATY;ID_KIEROWCA;ID_SPEDYTOR;ID_ODDZIAL;ID_OKRES
+1;34663;W trakcie;Nieuregulowana;51;65;73;1
+2;29776;W trakcie;Nieuregulowana;8;92;39;2
+3;13746;Dostarczone;Uregulowana;69;32;99;3
+4;27680;Niedostarczone;Nieuregulowana;14;77;24;4
+5;12257;Niedostarczone;Uregulowana;92;83;57;5
+6;27539;Dostarczone;Uregulowana;94;37;17;6
+7;26710;W trakcie;Uregulowana;51;65;73;7
+8;25787;W trakcie;Uregulowana;4;1;87;8
+9;35198;W trakcie;Uregulowana;35;49;44;9
+10;36939;Dostarczone;Nieuregulowana;95;52;20;10
+11;13748;W trakcie;Nieuregulowana;54;29;2;11
+12;22407;Dostarczone;Nieuregulowana;26;11;5;12
+13;12192;Niedostarczone;Nieuregulowana;34;63;67;13
+14;19291;Dostarczone;Nieuregulowana;1;27;37;14
+15;11913;W trakcie;Nieuregulowana;40;8;19;15
+16;25932;Dostarczone;Uregulowana;55;71;62;16
+17;15140;Niedostarczone;Uregulowana;39;89;62;17
+18;27562;W trakcie;Uregulowana;12;14;53;18
+19;36460;Niedostarczone;Nieuregulowana;100;84;16;19
+20;22875;Niedostarczone;Uregulowana;31;38;6;20
+21;31639;Dostarczone;Uregulowana;30;4;46;21
+22;8933;Dostarczone;Uregulowana;24;23;25;22
+23;23340;W trakcie;Uregulowana;10;87;87;23
+24;9274;Dostarczone;Nieuregulowana;95;52;20;24
+25;27644;W trakcie;Nieuregulowana;26;11;5;25
+26;34148;Dostarczone;Uregulowana;36;57;94;26
+27;32437;Dostarczone;Nieuregulowana;72;40;77;27
+28;33421;W trakcie;Uregulowana;14;77;24;28
+29;30462;Dostarczone;Nieuregulowana;4;1;87;29
+30;12296;Niedostarczone;Uregulowana;94;37;17;30
+31;13665;Niedostarczone;Uregulowana;8;92;39;31
+32;7031;W trakcie;Uregulowana;42;69;14;32
+33;10106;W trakcie;Nieuregulowana;14;77;24;33
+34;10661;W trakcie;Uregulowana;69;32;99;34
+35;17246;Niedostarczone;Uregulowana;23;33;20;35
+36;13083;Niedostarczone;Uregulowana;25;61;37;36
+37;26618;W trakcie;Nieuregulowana;39;89;62;37
+38;36335;W trakcie;Nieuregulowana;65;44;56;38
+39;32549;W trakcie;Nieuregulowana;28;43;51;39
+40;27172;W trakcie;Nieuregulowana;66;94;3;40
+41;19384;Niedostarczone;Nieuregulowana;65;44;56;41
+42;36174;Niedostarczone;Uregulowana;97;93;54;42
+43;18139;Dostarczone;Uregulowana;73;74;96;43
+44;12722;W trakcie;Uregulowana;90;85;98;44
+45;34519;Niedostarczone;Nieuregulowana;72;40;77;45
+46;32549;W trakcie;Nieuregulowana;35;49;44;46
+47;36593;Niedostarczone;Uregulowana;48;76;17;47
+48;24933;W trakcie;Nieuregulowana;71;18;41;48
+49;7619;Niedostarczone;Nieuregulowana;69;32;99;49
+50;15763;Niedostarczone;Nieuregulowana;51;65;73;50
+51;31165;Dostarczone;Uregulowana;72;40;77;51
+52;10914;W trakcie;Uregulowana;76;6;6;52
+53;38992;Dostarczone;Nieuregulowana;42;69;14;53
+54;29445;Niedostarczone;Uregulowana;55;71;62;54
+55;12677;Niedostarczone;Nieuregulowana;36;57;94;55
+56;29792;Dostarczone;Nieuregulowana;89;75;59;56
+57;31072;W trakcie;Uregulowana;12;14;53;57
+58;29120;W trakcie;Uregulowana;76;6;6;58
+59;24671;Niedostarczone;Uregulowana;69;32;99;59
+60;14287;W trakcie;Uregulowana;65;44;56;60
+61;9919;Niedostarczone;Nieuregulowana;11;5;100;61
+62;37883;Niedostarczone;Nieuregulowana;50;48;79;62
+63;22866;W trakcie;Nieuregulowana;97;93;54;63
+64;33755;W trakcie;Uregulowana;67;20;49;64
+65;21330;Dostarczone;Uregulowana;28;43;51;65
+66;9881;Dostarczone;Uregulowana;16;66;10;66
+67;35597;Dostarczone;Nieuregulowana;66;94;3;67
+68;35227;Dostarczone;Nieuregulowana;56;34;45;68
+69;9178;Niedostarczone;Nieuregulowana;41;2;27;69
+70;34426;Dostarczone;Uregulowana;30;4;46;70
+71;23783;Dostarczone;Nieuregulowana;1;27;37;71
+72;14888;Dostarczone;Nieuregulowana;4;1;87;72
+73;10491;W trakcie;Nieuregulowana;82;73;44;73
+74;38971;Niedostarczone;Uregulowana;50;48;79;74
+75;32874;Dostarczone;Nieuregulowana;82;73;44;75
+76;11406;Niedostarczone;Nieuregulowana;11;5;100;76
+77;17491;W trakcie;Uregulowana;82;73;44;77
+78;37373;Niedostarczone;Uregulowana;5;30;67;78
+79;31065;Dostarczone;Nieuregulowana;60;21;10;79
+80;20823;W trakcie;Uregulowana;95;52;20;80
+81;35830;W trakcie;Nieuregulowana;66;94;3;81
+82;34066;W trakcie;Nieuregulowana;12;14;53;82
+83;15605;Niedostarczone;Nieuregulowana;55;71;62;83
+84;14066;Niedostarczone;Nieuregulowana;42;69;14;84
+85;36634;Niedostarczone;Uregulowana;64;19;88;85
+86;7173;Dostarczone;Nieuregulowana;69;32;99;86
+87;30878;Niedostarczone;Uregulowana;5;30;67;87
+88;20507;Dostarczone;Nieuregulowana;70;17;80;88
+89;15015;W trakcie;Nieuregulowana;37;24;22;89
+90;21438;Niedostarczone;Nieuregulowana;96;45;71;90
+91;35199;Niedostarczone;Uregulowana;13;64;36;91
+92;19158;Niedostarczone;Nieuregulowana;55;71;62;92
+93;39092;W trakcie;Nieuregulowana;48;76;17;93
+94;38902;Dostarczone;Uregulowana;40;8;19;94
+95;33277;Dostarczone;Uregulowana;89;75;59;95
+96;8213;W trakcie;Uregulowana;48;76;17;96
+97;10028;W trakcie;Uregulowana;68;31;94;97
+98;34441;Dostarczone;Nieuregulowana;28;43;51;98
+99;17809;Dostarczone;Nieuregulowana;12;14;53;99
+100;24258;Niedostarczone;Uregulowana;23;33;20;100
